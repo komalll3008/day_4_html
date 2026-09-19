@@ -1,0 +1,18 @@
+```css
+.container {
+  display: grid;
+  grid-template-columns: 50px 1fr 75px;
+}
+
+.column1 {
+  background-color: lightblue;
+}
+
+.column2 {
+  background-color: lightpink;
+}
+
+.column3 {
+  background-color: lightblue;
+}
+```
